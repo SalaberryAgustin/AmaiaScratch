@@ -1,0 +1,4 @@
+-keep class com.family.scratchapp.data.models.** { *; }
+-keep class com.family.scratchapp.data.db.** { *; }
+-keepclassmembers class * extends androidx.room.RoomDatabase { *; }
+-dontwarn kotlin.**

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Amaia Scratch</string>
+    <string name="settings_subtitle">¡Configurá el juego!</string>
+
+    <string name="section_photos">📷 Fotos</string>
+    <string name="section_order">🔀 Orden</string>
+    <string name="section_reveal_time">⏱ Tiempo de revelado</string>
+    <string name="section_surface">🌿 Superficie</string>
+    <string name="section_music">🎵 Música</string>
+
+    <string name="order_random">Al azar</string>
+    <string name="order_sequential">En orden</string>
+
+    <string name="surface_dirt">🌱 Tierra</string>
+    <string name="surface_sand">🏖 Arena</string>
+    <string name="surface_grass">🌿 Pasto</string>
+    <string name="surface_random">🎲 Sorpresa</string>
+
+    <string name="music_none">🔇 Sin música</string>
+    <string name="music_1">🔔 Campanas del bosque</string>
+    <string name="music_2">⭐ Vals de las estrellas</string>
+    <string name="music_3">🌊 Canción del río</string>
+
+    <string name="btn_add_photos">+ Agregar fotos</string>
+    <string name="btn_start_game">¡JUGAR!</string>
+
+    <string name="celebration_message">¡Muy bien!</string>
+</resources>

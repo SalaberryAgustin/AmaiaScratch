@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Scratch" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/color_primary_btn</item>
+        <item name="colorPrimaryVariant">@color/color_primary_btn</item>
+        <item name="colorOnPrimary">@color/color_primary_btn_text</item>
+        <item name="android:windowBackground">@color/color_settings_bg</item>
+    </style>
+
+    <style name="Theme.Scratch.Fullscreen" parent="Theme.Scratch">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowBackground">@color/color_game_bg</item>
+    </style>
+
+    <!-- Section label -->
+    <style name="Widget.Scratch.SectionLabel" parent="android:Widget.TextView">
+        <item name="android:textSize">13sp</item>
+        <item name="android:textColor">@color/color_text_muted</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:letterSpacing">0.08</item>
+    </style>
+
+    <!-- Toggle button -->
+    <style name="Widget.Scratch.ToggleButton" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="android:textSize">13sp</item>
+        <item name="strokeColor">@color/color_toggle_stroke</item>
+        <item name="strokeWidth">1dp</item>
+        <item name="cornerRadius">10dp</item>
+        <item name="android:minHeight">44dp</item>
+        <item name="android:paddingTop">8dp</item>
+        <item name="android:paddingBottom">8dp</item>
+    </style>
+
+    <!-- Outline add button -->
+    <style name="Widget.Scratch.OutlineButton" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/color_primary_btn</item>
+        <item name="strokeColor">@color/color_primary_btn</item>
+        <item name="strokeWidth">1.5dp</item>
+        <item name="cornerRadius">12dp</item>
+    </style>
+
+    <!-- Primary action button -->
+    <style name="Widget.Scratch.PrimaryButton" parent="Widget.MaterialComponents.Button">
+        <item name="android:textSize">17sp</item>
+        <item name="android:textColor">@color/color_primary_btn_text</item>
+        <item name="backgroundTint">@color/color_primary_btn</item>
+        <item name="cornerRadius">16dp</item>
+        <item name="elevation">0dp</item>
+    </style>
+
+</resources>

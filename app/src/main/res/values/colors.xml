@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Settings screen -->
+    <color name="color_settings_bg">#FFF6ED</color>
+    <color name="color_text_primary">#2C2C2C</color>
+    <color name="color_text_secondary">#7A7A7A</color>
+    <color name="color_text_muted">#ABABAB</color>
+    <color name="color_photo_placeholder">#EDE8E0</color>
+    <color name="color_toggle_stroke">#D4CEC6</color>
+
+    <!-- Decorative shapes -->
+    <color name="color_shape_teal">#5ECEC8</color>
+    <color name="color_shape_peach">#F4A98A</color>
+    <color name="color_shape_yellow">#F7D06A</color>
+    <color name="color_shape_pink">#F2A7B8</color>
+    <color name="color_shape_lavender">#C4B5E8</color>
+    <color name="color_shape_sage">#9BC8A4</color>
+
+    <!-- Card -->
+    <color name="color_card_bg">#FFFFFF</color>
+
+    <!-- Primary button -->
+    <color name="color_primary_btn">#E8634A</color>
+    <color name="color_primary_btn_text">#FFFFFF</color>
+
+    <!-- Toggle buttons -->
+    <color name="color_toggle_selected_bg">#4A7C6F</color>
+    <color name="color_toggle_selected_text">#FFFFFF</color>
+    <color name="color_toggle_unselected_bg">#FFFFFF</color>
+    <color name="color_toggle_unselected_text">#5A5A5A</color>
+
+    <!-- Game screen -->
+    <color name="color_game_bg">#1A1A1A</color>
+
+    <!-- Celebration -->
+    <color name="color_celebration_text">#2C2C2C</color>
+
+    <!-- Unlock indicator -->
+    <color name="color_unlock_indicator">#80FFFFFF</color>
+
+    <!-- App icon background -->
+    <color name="color_icon_bg">#C47FD5</color>
+</resources>
